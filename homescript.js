@@ -7,7 +7,7 @@ window.onload = function () {
     }
 }
 // Setting up api key 
-localStorage.setItem('MovieApiKey', 'c03f0a1')
+// localStorage.setItem('MovieApiKey', 'Your Key')
 
 // Using querySelector method to get the elements
 const searchForm = document.querySelector('form');
