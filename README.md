@@ -10,7 +10,7 @@ The Movie Info App is a web application created for movie enthusiasts who want t
 
 - **User Authentication System:** The application includes a user authentication system with a dedicated page for login and registration.
 
-- **Local Storage:** To store user credentials and API keys securely, the app utilizes the local storage functionality. This ensures a seamless and personalized experience for returning users.
+- **Local Storage:** To store user credentials and API key, the app utilizes the local storage functionality. This ensures a seamless and personalized experience for returning users.
 
 - **Session Storage:** For enhanced security, the web app uses session storage to log users out when the browser is closed, preventing unauthorized access.
 
