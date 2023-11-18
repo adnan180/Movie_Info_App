@@ -23,10 +23,6 @@ function validateLogin() {
         sessionStorage.setItem('isAuthenticated', 'true');
          window.location.href = "home.html"
     }
-    else if (email ==='admin12@gmail.com' && password ==='5678'){
-        sessionStorage.setItem('isAuthenticated', 'true');
-        window.location.href = "home.html"
-    }
     else if(email !== loginemail && password !== loginpassword){
         alert('Check login credentials')
     }
