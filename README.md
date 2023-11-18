@@ -20,6 +20,6 @@ The Movie Info App is a web application created for movie enthusiasts who want t
 
 - **Responsive Viewing:** The responsive design allows users to access movie information seamlessly on various devices, providing a consistent and visually appealing experience.
 
-<br>
- 
-The Movie Info App is a user-friendly solution for movie enthusiasts, offering a seamless way to explore and gather information about their favorite films.
+## App Access
+
+Check out the app [here](https://movie-info-web-app.netlify.app/).
