@@ -23,7 +23,7 @@ function validateLogin() {
         sessionStorage.setItem('isAuthenticated', 'true');
          window.location.href = "home.html"
     }
-    else if(email !== loginemail && password !== loginpassword){
+    else if(email !== loginemail || password !== loginpassword){
         alert('Check login credentials')
     }
     
